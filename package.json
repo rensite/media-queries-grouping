@@ -1,0 +1,18 @@
+{
+  "name": "gulp-project",
+  "version": "1.0.0",
+  "description": "Gulp Starter: Pug, SCSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "group": "gulp group"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "css-mquery-packer": "^1.2.0",
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^8.0.0",
+    "postcss-sort-media-queries": "^1.4.24"
+  }
+}
